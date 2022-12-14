@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+.git/
+
+*.user
+
+Compiled/
+LithiumCoreFramework/bin/
+LithiumCoreFramework/obj/
+LithiumNukerV2/bin/
+LithiumNukerV2/obj/
